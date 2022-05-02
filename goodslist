@@ -1,0 +1,15 @@
+{
+  "code":0,
+  "message":"OK",
+  "data":[
+    {
+    "goodsId":0,
+      "spanSize":4,
+      "banners":[
+      "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.360bot.com%2FUploads%2F2015%2F9%2F2%2Fimages%2Ftooopen_201210072008492991%281%29.jpg&refer=http%3A%2F%2Fwww.360bot.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653926716&t=d92a201ea6796304c06e543af58590e2",
+        "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.mp.sohu.com%2Fupload%2F20170816%2F3a21d186f060453b955056c8cfd061f8_th.png&refer=http%3A%2F%2Fimg.mp.sohu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653926717&t=1e72c0f5198a264f125a121674b2f3ee",
+        "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.cailiao.com%2FUpload%2FUser%2Fdsmy459%2F2018111959158.jpg&refer=http%3A%2F%2Fwww.cailiao.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653926717&t=07604fa2acdbc3a146641cd678ba7353"
+      ]
+    }
+  ]
+}
