@@ -1,0 +1,15 @@
+{
+  "code":0,
+  "message":"OK",
+  "data":[
+    {
+    "goodsId":0,
+      "spanSize":4,
+      "banners":[
+      "https://raw.githubusercontent.com/nbdejianghx/hello-world/main/1.webp?token=GHSAT0AAAAAABUDQEA2IESHMNAA2VT5M37CYTOGJCQ",
+        "https://raw.githubusercontent.com/nbdejianghx/hello-world/main/2.webp?token=GHSAT0AAAAAABUDQEA2GTD624AN2GOKP6RIYTOGJLQ",
+        "https://raw.githubusercontent.com/nbdejianghx/hello-world/main/3.webp?token=GHSAT0AAAAAABUDQEA3WW4ZN5465CE7JNSIYTOGJSQ"
+      ]
+    }
+  ]
+}
